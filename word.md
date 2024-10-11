@@ -50,6 +50,66 @@ $\displaystyle y = \frac{3+2a}{4}x$
 <img src=img/gr.png width=800>  
 ギリシャ文字の入力
 
+<h3>２つのモード</h3>
+2つめの数式を例としますが、
+
+<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2012/10/eq1.png"><img class=" wp-image-5594 alignnone" title="eq" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2012/10/eq1.png" alt="" width="124" height="101" /></a>
+
+数式には[2次元形式]と[行形式]があり、右下の▽を押すと切り替えることができます。
+初期状態は2次元形式です。
+
+また[文中形式]と[独立形式]を切り替えることもできます。
+初期状態は[独立形式]ですが、[文中形式]にすることで、本文中で数式やギリシャ文字を表記するのに使うことができます。
+<h3>複数行にわたる数式</h3>
+複数行にわたる数式を書く場合は ¥box を使うと良いでしょう((メニューから入れる場合、[数式]-[かっこ]-[場合分けと積み重ね](メニューの下の方にある)-[縦並びオブジェクト](左から3番目)です。)) 。
+数式入力モードで
+<pre>¥box スペース スペース ←(左カーソル)</pre>
+で複数行入力モードに入ります。(ワードのメニューから[数式ツール]-[デザイン]-[かっこ]-[場合分けと積み重ね(メニューの下の方にある)]からも複数入力モードに入れます。)
+
+<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2018/10/fukusu1.png"><img class="alignnone wp-image-12098" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2018/10/fukusu1.png" alt="" width="80" height="58" /></a>　or <a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2018/10/fukusu15.png"><img class="alignnone wp-image-12105" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2018/10/fukusu15.png" alt="" width="75" height="113" /></a>
+
+ここで、例えば
+<pre>y = (x+2)^2 エンターキー
+= x^2+4x+4</pre>
+と入力します。複数行入力モードではエンターキーで改行され、次の行の入力に入ります。
+
+<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2018/10/fukusu2.png"><img class="alignnone wp-image-12099" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2018/10/fukusu2.png" alt="" width="150" height="58" /></a>
+
+複数行入力モードでは、横方向の位置をそろえることができます。上記の例では、= (イコール) の位置を揃えたいので、各行で = の前にカーソルを合わせ、 &amp; (アンド)を入力します。
+(&amp;は画面に表示されません。1 行目の = の前で &amp; を入力、2 行目の = の前で &amp; を入力と、計 2 回 &amp; を入力します。)
+
+すると、下記のように = の位置が揃います。
+
+<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2018/10/fukusu3.png"><img class="alignnone wp-image-12100" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2018/10/fukusu3.png" alt="" width="150" height="58" /></a>
+<h2> レポート中の表記法のルール</h2>
+レポートや科学論文では表記法のルールがあります。(<a title="実験テキスト(pdf版)" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=4002">物理化学実験テキスト</a> p.23 参照)
+物理量を表す記号(代数記号を含む)はイタリック(斜体)、
+単位はローマン(通常のフォント)で書くことになっています。
+
+<em>v</em> = 0.23 m s<sup>−1</sup>
+<em>M</em> = 24.0 g mol<sup>−1</sup>
+
+イタリックは文字を選択して ワードのメニューの[ホーム] [ <em>I</em> ] を押すことで切り替えることができます。数式モードで入力した物理量を表す記号も、イタリックにしなくてはなりません。
+
+物理量は SI単位 で表記しなくてはなりません。
+
+数値と単位の間には 半角スペースを入れます。単位が積になっている場合は、間にやはり半角スペースを入れます。
+
+数学記号 (cos, exp, 微分の d など) はイタリックではなく通常のフォントで書きます ((円周率 π, 自然対数の底 e, 虚数単位 i  も数学記号扱いなので、イタリックでなく通常のフォントで書きます(グリーンブック p.9)。)) 。
+
+面倒ですが、科学論文(例 http://pubs.acs.org/doi/abs/10.1021/jp200103s )を見ると、上記のルールを徹底して守っていることがわかります。
+
+有効数字にも注意を払う必要があります。(<a title="実験テキスト(pdf版)" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=4002">物理化学実験テキスト</a> p.39 参照)
+
+[note]<a id="slash"></a>割り算を意味する / (スラッシュ) は、1 つの計算単位では 1 回しか使わないことになっています。
+これは <em>a</em> / <em>b</em> / <em>c</em> と書くと (<em>a</em> / <em>b</em>) / <em>c</em> なのか <em>a</em> / (<em>b</em> / <em>c</em>) なのかわからなくなってしまうためです。
+
+<em>a</em> / <em>b</em> <em>c</em> と書いてある場合、 (<em>a</em> / <em>b</em>) × <em>c</em> と <em>a</em> / (<em>b</em> × <em>c</em>) と 2 通りに読めますが、「スラッシュは 1 回しか使わない」というルールがあるので、 <em>a</em> / (<em>b</em> × <em>c</em>) を意味することになります。(スラッシュはその左側全体を分子に、右側全体を分母にとる。)
+
+よって、表の見出しやグラフの縦軸などに密度を書く場合には、 <em>ρ </em>/ g / cm<sup>3</sup> とは書かずに、 <em>ρ </em>/ g cm<sup>−3</sup> と書きます(<a href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=1315#_2">表の見出しについて</a>)。
+
+(グリーンブック p.7 参照
+http://www.nmij.jp/public/report/translation/IUPAC/iupac/iupac_green_book_jp.pdf#page=27 )
 
 
 
