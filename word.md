@@ -121,10 +121,10 @@ y = (x+2)^2 エンターキー
 
 <em>a</em> / <em>b</em> <em>c</em> と書いてある場合、 (<em>a</em> / <em>b</em>) × <em>c</em> と <em>a</em> / (<em>b</em> × <em>c</em>) と 2 通りに読めそうですが、「スラッシュは 1 回しか使わない」というルールがあるので、 <em>a</em> / (<em>b</em> × <em>c</em>) を意味することになります。(スラッシュはその左側全体を分子に、右側全体を分母にとる。)
 
-よって、表の見出しやグラフの縦軸などに密度を書く場合には、 <em>ρ </em>/ g / cm<sup>3</sup> とは書かずに、 <em>ρ </em>/ g cm<sup>−3</sup> と書きます(<a href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=1315#_2">表の見出しについて</a>)。
+よって、表の見出しやグラフの縦軸などに密度を書く場合には、 <em>ρ </em>/ g / cm<sup>3</sup> とは書かずに、 <em>ρ </em>/ g cm<sup>−3</sup> と書きます。
 
-(グリーンブック p.7 参照
-http://www.nmij.jp/public/report/translation/IUPAC/iupac/iupac_green_book_jp.pdf#page=27 )
+(グリーンブック(物理化学で用いられる量・単位・記号　第３版) p.7 参照
+https://unit.aist.go.jp/nmij/public/report/others/ )
 
 
 
