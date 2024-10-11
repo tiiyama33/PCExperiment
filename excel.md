@@ -223,7 +223,7 @@ C6:C12はYの値、B6:B12はXの値を範囲で指定関数ウィザードを使
 
 <em>y</em><sub>i</sub> は測定値、<em>z</em><sub>i</sub> はその測定値に対応した予測値、[latex s=1]\bar{y}[/latex]は全測定値の平均</li>
 </ul>
-<a title="エクセル-参考2" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=5564">参考画面</a>
+<a title="エクセル-参考2" href="img/sheet2.jpg">参考画面</a>
 
 > <h3>問題 6</h3>
 > 1回目の実験データの中間部分について、最小2乗法を用いて近似直線を書き加えよ。
