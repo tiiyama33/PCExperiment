@@ -43,7 +43,14 @@ $\displaystyle y = \frac{3+2a}{4}x$
 
 [^1]:Macだと入力できない場合があるようです。その場合、メニューから入力してください。
 
-![数式1](img/suushiki-1.png)
+
+<img src=img/suushiki-1.png width=800>  
 [数式ツール]のタブ
+
+<img src=img/gr.png width=800>  
+ギリシャ文字の入力
+
+
+
 
 
