@@ -50,10 +50,11 @@ $\displaystyle y = \frac{3+2a}{4}x$
 <img src=img/gr.png width=800>  
 ギリシャ文字の入力
 
-<h3>２つのモード</h3>
+## ２つのモード
+
 2つめの数式を例としますが、
 
-<a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2012/10/eq1.png"><img class=" wp-image-5594 alignnone" title="eq" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2012/10/eq1.png" alt="" width="124" height="101" /></a>
+<img src=img/eq1.png" alt="" width="124" height="101">
 
 数式には[2次元形式]と[行形式]があり、右下の▽を押すと切り替えることができます。
 初期状態は2次元形式です。
