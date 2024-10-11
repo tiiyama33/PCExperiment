@@ -133,7 +133,8 @@
 </tr>
 </tbody>
 </table>
-<p>上記のテキストデータ <a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2012/10/exp2.txt">exp2.txt</a></p>
+[上記のテキストデータ](img/exp2.txt)
+
 <h2>実験データ 3回目</h2>
 <table border="1">
 <thead>
