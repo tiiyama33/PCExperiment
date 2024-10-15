@@ -18,6 +18,6 @@ $\displaystyle \frac{{\rm d}N/N_{\rm A}}{{\rm d}u}  = 4 \pi \left( \frac{m}{2 \p
 1) ピークの面積を比較してください。
 2) ピークの位置を比較してください。
 
-数値データ [expert.csv](expert.csv)
+数値データ [expert.csv](expert.csv) ←クリックした先のページで右上の[download raw file]を押してダウンロード
 <img src=img/exp2.jpg  width="568">
 
