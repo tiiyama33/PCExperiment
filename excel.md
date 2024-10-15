@@ -11,7 +11,7 @@
 
 <img src=img/graph1.jpg width=651>
 
-<p align="left">「出来る」という人は→<a title="上級者用問題" href="http://science.shinshu-u.ac.jp/~tiiyama/?page_id=5542">上級者問題</a>へ</p>
+<p align="left">「出来る」という人は→[上級者用問題](advanced.md)へ</p>
 
 <h2>1. エクセルの起動</h2>
 <ul>
