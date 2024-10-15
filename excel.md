@@ -222,9 +222,12 @@ C6:C12はYの値、B6:B12はXの値を範囲で指定関数ウィザードを使
  	<li>範囲を指定する場合は A1:A20 のようにする (開始セル コロン 終了セル)</li>
  	<li>直線を作成する際は7.で述べた$マークを使うとよい</li>
  	<li>評価値(決定係数) <em>R</em><sup>2</sup> を求めたい場合は次の式により計算する
-[latex s=1]\displaystyle R^2 = 1 - \frac{\sum\limits_{i=1}^n (y_i-z_i)^2}{\sum\limits_{i=1}^n (y_i-\bar{y})^2}[/latex]
+   
+$\displaystyle R^2 = 1 - \frac{\sum\limits_{i=1}^n (y_i-z_i)^2}{\sum\limits_{i=1}^n (y_i-\bar{y})^2}$
+</li>
 
-<em>y</em><sub>i</sub> は測定値、<em>z</em><sub>i</sub> はその測定値に対応した予測値、[latex s=1]\bar{y}[/latex]は全測定値の平均</li>
+<em>y</em><sub>i</sub> は測定値、<em>z</em><sub>i</sub> はその測定値に対応した予測値、 $\bar{y}$ は全測定値の平均
+
 </ul>
 <a title="エクセル-参考2" href="img/sheet2.jpg">参考画面</a>
 
