@@ -18,6 +18,6 @@ $\displaystyle \frac{{\rm d}N/N_{\rm A}}{{\rm d}u}  = 4 \pi \left( \frac{m}{2 \p
 1) ピークの面積を比較してください。
 2) ピークの位置を比較してください。
 
-数値データ <a href="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2012/10/expert.csv">expert.csv</a>
+数値データ [expert.csv](expert.csv)
+<img src=img/exp2.jpg  width="568" > 3 つの試料の散乱実験データ
 
-<img class="size-full wp-image-5546" title="exp2" src="http://science.shinshu-u.ac.jp/~tiiyama/wp-content/uploads/2012/10/exp2.jpg" alt="" width="568" height="473" /></a> 3 つの試料の散乱実験データ[/caption]]]></content:encoded>
