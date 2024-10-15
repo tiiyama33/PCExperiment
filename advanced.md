@@ -19,5 +19,5 @@ $\displaystyle \frac{{\rm d}N/N_{\rm A}}{{\rm d}u}  = 4 \pi \left( \frac{m}{2 \p
 2) ピークの位置を比較してください。
 
 数値データ [expert.csv](expert.csv)
-<img src=img/exp2.jpg  width="568" > 3 つの試料の散乱実験データ
+<img src=img/exp2.jpg  width="568">
 
