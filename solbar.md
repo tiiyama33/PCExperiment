@@ -75,6 +75,11 @@ a, b, c の値と x の値 (E10) を参照し、
 
 <img src=img/sol4.png width=600>
 
+これで、H7 セルの値ができるだけ小さくなるように a, b, c の値を変えていけば  
+よりよいフィッティングが得られる状態になった。
+
+<img src=img/sol5.png width=600>
+
 
 
 
