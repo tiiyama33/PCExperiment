@@ -99,7 +99,8 @@ a, b, c の値と x の値 (E10) を参照し、
 
 ## ソルバーの使い方
 
-<img src=img/sol8.png width=600>
+<img src=img/sol9.png width=600>
+
 
 
 
