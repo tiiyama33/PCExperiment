@@ -114,6 +114,11 @@ a, b, c の値と x の値 (E10) を参照し、
  
 <img src=img/sol5.png width=600>
 
+## 応用編
+
+<img src=img/sol10.png width=600>
+
+
 
 
 
