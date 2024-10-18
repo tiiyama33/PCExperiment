@@ -21,7 +21,7 @@
 
 ### 方法2 [Symbol]フォントを使う
 半角のアルファベットを入力し、フォントを[Symbol]に指定すると、ギリシャ文字が表示できます。
-文字の対応は [ギリシャ文字](https://www.ouj.ac.jp/mijika/tokei/contents/sub_contents/c02_04_01.html) を参照してください。
+<!--文字の対応は [ギリシャ文字](https://www.ouj.ac.jp/mijika/tokei/contents/sub_contents/c02_04_01.html) を参照してください。-->
 
 ## 画面のコピーを取る(Windows)
 プリントスクリーンキー[Print Scr] (カーソルキーの上の方にあることが多い) を押すと、画面のコピーを取ることができます。
