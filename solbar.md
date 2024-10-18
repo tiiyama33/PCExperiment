@@ -99,7 +99,7 @@ a, b, c の値と x の値 (E10) を参照し、
 
 ## ソルバーの使い方
 
-<img src=img/sol9.png width=600>
+<img src=img/sol92.png width=600>
 
 - **目的セルの設定** 評価値のセルを指定 (H7) 矢印ボタンを押せばワークシートから指定できる
 - **目標値** [最小値] を指定
@@ -112,7 +112,7 @@ a, b, c の値と x の値 (E10) を参照し、
 設定ができたら [OK] を押す
 
  
-<img src=img/sol5.png width=600>
+<img src=img/sol8.png width=600>
 
 ## 応用編
 
