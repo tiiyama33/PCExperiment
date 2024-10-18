@@ -270,3 +270,5 @@ $\displaystyle R^2 = 1 - \frac{\sum\limits_{i=1}^n (y_i-z_i)^2}{\sum\limits_{i=1
 <h2>14. その他、レポート作成時のTips</h2>
 
 [別ページ](tips.md) にまとめました。
+
+[目次に戻る](README.md)
