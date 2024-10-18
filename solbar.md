@@ -171,10 +171,4 @@ $d = 1.99 -a -b- c$
 
 <img src=img/sol10.png width=600>
 
-
-
-
-
-
-
-
+[目次に戻る](README.md)
